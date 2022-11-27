@@ -15,7 +15,7 @@ allprojects {
         appPackageName = 'com.lauren.pixeldungeonofelements'
 
         appVersionCode = 668
-        appVersionName = '1.0'
+        appVersionName = '1.0.0'
 
         appJavaCompatibility = JavaVersion.VERSION_1_8
 
